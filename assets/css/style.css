@@ -9,7 +9,7 @@
 # General
 --------------------------------------------------------------*/
 body {
-  background-color: #8d9b646b;
+  background-color: #092e206b;
   color: #4e4e4e;
 }
 
@@ -846,7 +846,7 @@ a:hover {
   margin-bottom: 3rem;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
-  background-color: #fff;
+  background-color: rgb(255, 255, 255);
 }
 .work-box:hover img {
   transform: scale(1.3);
